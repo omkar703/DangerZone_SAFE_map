@@ -1,6 +1,3 @@
-Here’s a well-structured `README.md` file for your project, which includes all the essential sections. You can edit it as needed.
-
----
 
 # 🚗 Route Navigation and Safety App
 
