@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460766113824",
+    "project_id": "fir-authdemoapp-5f77d",
+    "storage_bucket": "fir-authdemoapp-5f77d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460766113824:android:01d7e7ebd25a2a22e58c45",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.firebaseauthdemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7mM-cqWIHEyU31NvBbNb7LCYnGkQExh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
